@@ -1,0 +1,932 @@
+2026-03-04 01:18:32,304 [INFO] Earth Engine initialized
+2026-03-04 01:18:33,026 [INFO] Model loaded
+2026-03-04 01:19:02,654 [INFO] Login: land2@gmail.com
+2026-03-04 01:19:24,139 [INFO] Login: auditor@carboncredit.com
+2026-03-04 01:32:55,007 [INFO] Earth Engine initialized
+2026-03-04 01:32:56,274 [INFO] Model loaded
+2026-03-04 01:33:00,027 [INFO] Login: auditor@carboncredit.com
+2026-03-04 01:35:00,656 [INFO] New user with document: company02@gmail.com (organization) approved=True, verified=False
+2026-03-04 01:35:03,272 [INFO] Login: auditor@carboncredit.com
+2026-03-04 01:35:11,546 [INFO] User 21 verified by auditor 6
+2026-03-04 01:36:10,554 [INFO] Login: land2@gmail.com
+2026-03-04 01:41:03,148 [INFO] Login: auditor@carboncredit.com
+2026-03-04 01:41:22,303 [INFO] Login: land2@gmail.com
+2026-03-04 01:50:08,722 [INFO] Login: auditor@carboncredit.com
+2026-03-04 01:51:32,785 [INFO] New user with document: land123@gmail.com (land_owner) approved=True, verified=False
+2026-03-04 01:51:38,594 [INFO] Login: auditor@carboncredit.com
+2026-03-04 01:51:46,609 [INFO] User 22 verified by auditor 6
+2026-03-04 01:52:01,818 [INFO] Login: land123@gmail.com
+2026-03-04 01:57:35,367 [INFO] Earth Engine initialized
+2026-03-04 01:57:36,642 [INFO] Model loaded
+2026-03-04 01:57:39,393 [INFO] Login: company02@gmail.com
+2026-03-04 01:57:49,536 [INFO] Earth Engine initialized
+2026-03-04 01:57:50,611 [INFO] Model loaded
+2026-03-04 01:57:50,774 [INFO] DB migration: added projects.project_name
+2026-03-04 01:57:50,811 [INFO] DB migration: added documents.project_id
+2026-03-04 01:58:02,078 [INFO] Earth Engine initialized
+2026-03-04 01:58:03,056 [INFO] Model loaded
+2026-03-04 01:58:21,444 [INFO] Earth Engine initialized
+2026-03-04 01:58:22,407 [INFO] Model loaded
+2026-03-04 01:58:22,844 [INFO] Login: company02@gmail.com
+2026-03-04 02:00:27,082 [INFO] Earth Engine initialized
+2026-03-04 02:00:28,099 [INFO] Model loaded
+2026-03-04 02:00:47,872 [INFO] Earth Engine initialized
+2026-03-04 02:00:48,869 [INFO] Model loaded
+2026-03-04 02:00:59,009 [INFO] Earth Engine initialized
+2026-03-04 02:01:00,086 [INFO] Model loaded
+2026-03-04 02:01:11,199 [INFO] Earth Engine initialized
+2026-03-04 02:01:12,252 [INFO] Model loaded
+2026-03-04 02:01:22,352 [INFO] Earth Engine initialized
+2026-03-04 02:01:23,423 [INFO] Model loaded
+2026-03-04 02:01:34,603 [INFO] Earth Engine initialized
+2026-03-04 02:01:35,726 [INFO] Model loaded
+2026-03-04 02:03:00,106 [INFO] Login: auditor@carboncredit.com
+2026-03-04 02:03:14,121 [INFO] Earth Engine initialized
+2026-03-04 02:03:15,152 [INFO] Model loaded
+2026-03-04 02:03:24,835 [INFO] Earth Engine initialized
+2026-03-04 02:03:25,899 [INFO] Model loaded
+2026-03-04 02:03:35,265 [INFO] Earth Engine initialized
+2026-03-04 02:03:35,948 [INFO] Model loaded
+2026-03-04 02:03:36,321 [INFO] Login: land123@gmail.com
+2026-03-04 02:03:49,904 [INFO] Earth Engine initialized
+2026-03-04 02:03:50,988 [INFO] Model loaded
+2026-03-04 02:04:01,688 [INFO] Earth Engine initialized
+2026-03-04 02:04:02,720 [INFO] Model loaded
+2026-03-04 02:04:18,056 [INFO] Earth Engine initialized
+2026-03-04 02:04:19,031 [INFO] Model loaded
+2026-03-04 02:08:27,645 [INFO] Earth Engine initialized
+2026-03-04 02:08:28,718 [INFO] Model loaded
+2026-03-04 02:10:40,945 [INFO] Project 5 (Guindy National Park (Chennai)): 13371.24 CCT minted
+2026-03-04 02:10:49,245 [INFO] Project 6 (Guindy National Park (Chennai)): 13371.24 CCT minted
+2026-03-04 02:10:59,582 [INFO] Project 7 (Guindy National Park (Chennai)): 13371.24 CCT minted
+2026-03-04 02:11:07,571 [INFO] Project 8 (Guindy National Park (Chennai)): 13371.24 CCT minted
+2026-03-04 02:11:17,297 [INFO] Project 9 (Guindy National Park (Chennai)): 13371.24 CCT minted
+2026-03-04 02:11:27,013 [INFO] Project 10 (Guindy National Park (Chennai)): 13371.24 CCT minted
+2026-03-04 02:11:36,651 [INFO] Project 11 (Guindy National Park (Chennai)): 13371.24 CCT minted
+2026-03-04 02:11:45,265 [INFO] Project 12 (Guindy National Park (Chennai)): 13371.24 CCT minted
+2026-03-04 02:11:55,066 [INFO] Project 13 (Guindy National Park (Chennai)): 13371.24 CCT minted
+2026-03-04 02:12:03,715 [INFO] Project 14 (Guindy National Park (Chennai)): 13371.24 CCT minted
+2026-03-04 02:14:55,782 [INFO] New user with document: land1234@gmail.com (land_owner) approved=True, verified=False
+2026-03-04 02:15:00,630 [INFO] Login: land1234@gmail.com
+2026-03-04 02:15:43,273 [INFO] Login: auditor@carboncredit.com
+2026-03-04 02:15:51,618 [INFO] User 23 verified by auditor 6
+2026-03-04 02:17:22,568 [INFO] Login: land1234@gmail.com
+2026-03-04 02:17:48,147 [INFO] Project 15 (National Park): 13371.24 CCT minted
+2026-03-04 02:22:55,412 [INFO] Earth Engine initialized
+2026-03-04 02:22:56,191 [INFO] Model loaded
+2026-03-04 02:23:08,561 [INFO] Earth Engine initialized
+2026-03-04 02:23:09,288 [INFO] Model loaded
+2026-03-04 02:23:09,370 [INFO] DB migration: added projects.coordinates_key
+2026-03-04 02:23:09,390 [INFO] DB migration: added projects.is_minted
+2026-03-04 02:23:09,390 [INFO] DB migration: added projects.mint_tx_hash
+2026-03-04 02:23:09,391 [INFO] DB migration: added projects.minted_at
+2026-03-04 02:23:09,398 [INFO] DB migration: added projects.approved_by
+2026-03-04 02:23:09,399 [INFO] DB migration: added projects.approved_at
+2026-03-04 02:23:19,195 [INFO] Earth Engine initialized
+2026-03-04 02:23:19,957 [INFO] Model loaded
+2026-03-04 02:24:02,553 [INFO] Earth Engine initialized
+2026-03-04 02:24:03,330 [INFO] Model loaded
+2026-03-04 02:26:34,458 [INFO] Earth Engine initialized
+2026-03-04 02:26:35,166 [INFO] Model loaded
+2026-03-04 02:26:56,092 [INFO] Earth Engine initialized
+2026-03-04 02:26:56,803 [INFO] Model loaded
+2026-03-04 02:29:31,472 [INFO] Earth Engine initialized
+2026-03-04 02:29:32,606 [INFO] Model loaded
+2026-03-04 02:29:38,947 [INFO] Login: land1234@gmail.com
+2026-03-04 02:30:55,453 [INFO] Project 16 (Jhalana Leopard Reserve Forest (Jaipur)) created as pending.
+2026-03-04 02:31:49,024 [INFO] Login: auditor@carboncredit.com
+2026-03-04 02:32:04,087 [INFO] Project 16 approved by auditor 6 and minted.
+2026-03-04 02:32:24,263 [INFO] Login: land1234@gmail.com
+2026-03-04 03:00:00,591 [INFO] Earth Engine initialized
+2026-03-04 03:00:01,978 [INFO] Model loaded
+2026-03-04 03:00:02,126 [INFO] DB migration: added marketplace_listings.platform_fee
+2026-03-04 03:00:02,131 [INFO] DB migration: added marketplace_listings.source
+2026-03-04 03:00:02,182 [INFO] DB migration: ensured processed_transactions table exists
+2026-03-04 03:00:02,188 [INFO] DB migration: seeded system_settings.default_listing_price
+2026-03-04 03:00:02,306 [INFO] CCT blockchain listener task started.
+2026-03-04 03:00:02,306 [INFO] WS_RPC_URL not set — starting blockchain listener in HTTP polling mode.
+2026-03-04 03:00:04,809 [INFO] HTTP poll listener active | contract=0xa90d9ae8b930d8a13a6b4b9eecfae72085bbe6c2 | to=0x7f3846D0c4524Bf27d32019C9DBda08876427f5D | start_block=34722955
+2026-03-04 03:02:44,384 [INFO] CCT blockchain listener task stopped.
+2026-03-04 03:02:56,317 [INFO] Earth Engine initialized
+2026-03-04 03:02:57,576 [INFO] Model loaded
+2026-03-04 03:02:57,826 [INFO] DB migration: ensured processed_transactions table exists
+2026-03-04 03:02:57,917 [INFO] CCT blockchain listener task started.
+2026-03-04 03:02:57,917 [INFO] WS_RPC_URL not set — starting blockchain listener in HTTP polling mode.
+2026-03-04 03:02:59,285 [INFO] HTTP poll listener active | contract=0xa90d9ae8b930d8a13a6b4b9eecfae72085bbe6c2 | to=0x7f3846D0c4524Bf27d32019C9DBda08876427f5D | start_block=34723042
+2026-03-04 03:14:03,906 [INFO] Login: land1234@gmail.com
+2026-03-04 10:27:39,104 [INFO] Earth Engine initialized
+2026-03-04 10:27:39,813 [INFO] Model loaded
+2026-03-04 10:27:39,956 [INFO] DB migration: ensured processed_transactions table exists
+2026-03-04 10:27:40,007 [INFO] CCT blockchain listener task started.
+2026-03-04 10:27:40,008 [INFO] WS_RPC_URL not set — starting blockchain listener in HTTP polling mode.
+2026-03-04 10:27:41,425 [INFO] HTTP poll listener active | contract=0xa90d9ae8b930d8a13a6b4b9eecfae72085bbe6c2 | to=0x7f3846D0c4524Bf27d32019C9DBda08876427f5D | start_block=34736383
+2026-03-04 10:27:59,965 [INFO] Earth Engine initialized
+2026-03-04 10:28:00,694 [INFO] Model loaded
+2026-03-04 10:28:00,952 [INFO] DB migration: ensured processed_transactions table exists
+2026-03-04 10:28:01,031 [INFO] CCT blockchain listener task started.
+2026-03-04 10:28:01,031 [INFO] WS_RPC_URL not set — starting blockchain listener in HTTP polling mode.
+2026-03-04 10:28:02,599 [INFO] HTTP poll listener active | contract=0xa90d9ae8b930d8a13a6b4b9eecfae72085bbe6c2 | to=0x7f3846D0c4524Bf27d32019C9DBda08876427f5D | start_block=34736393
+2026-03-04 10:28:10,427 [INFO] Login: land1234@gmail.com
+2026-03-04 10:31:49,846 [INFO] Project 17 (Turahalli Forest (Bengaluru)) created as pending.
+2026-03-04 10:32:02,327 [INFO] Login: auditor@carboncredit.com
+2026-03-04 10:32:13,947 [INFO] Project 17 approved by auditor 6 and minted.
+2026-03-04 10:32:21,032 [INFO] Project 17 approved by auditor 6 and minted.
+2026-03-04 10:32:40,279 [INFO] Login: land1234@gmail.com
+2026-03-04 11:21:22,533 [WARNING] HTTP Web3 disconnected — reconnecting…
+2026-03-04 11:24:35,908 [WARNING] HTTP Web3 disconnected — reconnecting…
+2026-03-04 11:24:36,007 [ERROR] HTTP Web3 not connected to https://rpc-amoy.polygon.technology
+2026-03-04 11:24:51,013 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 11:25:06,028 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 11:25:21,031 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 11:25:34,046 [INFO] Project 18 (KBR National Park (Hyderabad)) created as pending.
+2026-03-04 11:25:36,045 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 11:25:48,572 [INFO] Login: land1234@gmail.com
+2026-03-04 11:25:51,055 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 11:26:00,134 [INFO] Login: auditor@carboncredit.com
+2026-03-04 11:26:06,067 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 11:26:21,083 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 11:26:36,090 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 11:26:51,092 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 11:27:06,102 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 11:27:21,103 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 11:27:36,118 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 11:27:51,126 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 11:28:06,141 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 11:28:21,152 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 11:28:36,160 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 11:28:51,166 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 11:29:06,174 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 11:29:21,186 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 11:29:36,193 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 11:29:51,200 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 11:30:06,201 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 11:30:21,208 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 11:30:36,213 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 11:30:51,226 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 11:31:06,242 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 11:31:07,380 [INFO] Login: auditor@carboncredit.com
+2026-03-04 11:31:21,251 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 11:31:25,956 [INFO] Project 18 approved by auditor 6 and minted.
+2026-03-04 11:31:36,267 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 11:31:51,268 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 11:31:56,044 [INFO] Project 18 approved by auditor 6 and minted.
+2026-03-04 11:32:06,270 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 11:32:06,356 [INFO] Login: land1234@gmail.com
+2026-03-04 11:32:21,279 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 11:32:36,292 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 11:32:51,302 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 11:33:06,316 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 11:33:21,321 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 11:33:36,325 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 11:33:51,342 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 11:34:06,348 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 11:34:21,349 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 11:34:36,362 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 11:34:37,459 [INFO] CCT blockchain listener task stopped.
+2026-03-04 11:37:29,503 [INFO] Earth Engine initialized
+2026-03-04 11:37:30,235 [INFO] Model loaded
+2026-03-04 11:37:30,355 [INFO] DB migration: ensured processed_transactions table exists
+2026-03-04 11:37:30,407 [INFO] CCT blockchain listener task started.
+2026-03-04 11:37:30,407 [INFO] WS_RPC_URL not set — starting blockchain listener in HTTP polling mode.
+2026-03-04 11:37:31,764 [INFO] HTTP poll listener active | contract=0xac9b428132898610873682700b0ae73182506e3b | to=0x7f3846D0c4524Bf27d32019C9DBda08876427f5D | start_block=34738478
+2026-03-04 11:38:20,663 [INFO] Project 19 (Nanmangalam Reserve Forest (Chennai)) created as pending.
+2026-03-04 11:39:29,107 [INFO] Login: auditor@carboncredit.com
+2026-03-04 11:39:46,726 [INFO] Project 19 approved by auditor 6 and minted.
+2026-03-04 11:40:21,579 [INFO] Login: land1234@gmail.com
+2026-03-04 11:46:07,876 [INFO] Transfer event (poll) | from=0x266f7dd04e6f263B7f0261780FeA16e4C2401763 | amount=1000000000000000000000 wei | tx=d95d6bafaea211ab91524129687b1dcff443e402a724f3107e68235d2fa32aa9
+2026-03-04 11:46:07,877 [INFO] Processing CCT payment | tx=d95d6bafaea211ab91524129687b1dcff443e402a724f3107e68235d2fa32aa9 | from=0x266f7dd04e6f263B7f0261780FeA16e4C2401763 | amount=1000.000000 CCT
+2026-03-04 11:46:10,613 [INFO] Auto-listed | user=land1234@gmail.com | listing_id=5 | credits=980.000000 CCT | fee=20.000000 CCT | tx=d95d6bafaea211ab91524129687b1dcff443e402a724f3107e68235d2fa32aa9
+2026-03-04 11:50:24,060 [INFO] CCT blockchain listener task stopped.
+2026-03-04 11:50:32,992 [INFO] Earth Engine initialized
+2026-03-04 11:50:33,753 [INFO] Model loaded
+2026-03-04 11:50:33,890 [INFO] DB migration: ensured processed_transactions table exists
+2026-03-04 11:50:33,945 [INFO] CCT blockchain listener task started.
+2026-03-04 11:50:33,946 [INFO] WS_RPC_URL not set — starting blockchain listener in HTTP polling mode.
+2026-03-04 11:50:35,522 [INFO] HTTP poll listener active | contract=0xac9b428132898610873682700b0ae73182506e3b | to=0x7f3846D0c4524Bf27d32019C9DBda08876427f5D | start_block=34738870
+2026-03-04 11:50:37,267 [INFO] CCT blockchain listener task stopped.
+2026-03-04 11:50:46,206 [INFO] Earth Engine initialized
+2026-03-04 11:50:46,926 [INFO] Model loaded
+2026-03-04 11:50:47,053 [INFO] DB migration: ensured processed_transactions table exists
+2026-03-04 11:50:47,107 [INFO] CCT blockchain listener task started.
+2026-03-04 11:50:47,107 [INFO] WS_RPC_URL not set — starting blockchain listener in HTTP polling mode.
+2026-03-04 11:50:48,738 [INFO] HTTP poll listener active | contract=0xac9b428132898610873682700b0ae73182506e3b | to=0x7f3846D0c4524Bf27d32019C9DBda08876427f5D | start_block=34738876
+2026-03-04 11:50:50,584 [INFO] CCT blockchain listener task stopped.
+2026-03-04 11:51:02,901 [INFO] Earth Engine initialized
+2026-03-04 11:51:03,716 [INFO] Model loaded
+2026-03-04 11:51:03,837 [INFO] DB migration: ensured processed_transactions table exists
+2026-03-04 11:51:03,893 [INFO] CCT blockchain listener task started.
+2026-03-04 11:51:03,893 [INFO] WS_RPC_URL not set — starting blockchain listener in HTTP polling mode.
+2026-03-04 11:51:05,533 [INFO] HTTP poll listener active | contract=0xac9b428132898610873682700b0ae73182506e3b | to=0x7f3846D0c4524Bf27d32019C9DBda08876427f5D | start_block=34738885
+2026-03-04 11:53:28,795 [INFO] CCT blockchain listener task stopped.
+2026-03-04 11:53:42,048 [INFO] Earth Engine initialized
+2026-03-04 11:53:44,358 [INFO] Model loaded
+2026-03-04 11:53:44,636 [INFO] DB migration: ensured processed_transactions table exists
+2026-03-04 11:53:44,839 [INFO] CCT blockchain listener task started.
+2026-03-04 11:53:44,839 [INFO] WS_RPC_URL not set — starting blockchain listener in HTTP polling mode.
+2026-03-04 11:53:46,732 [INFO] HTTP poll listener active | contract=0xac9b428132898610873682700b0ae73182506e3b | to=0x7f3846D0c4524Bf27d32019C9DBda08876427f5D | start_block=34738965
+2026-03-04 11:59:41,925 [INFO] Transfer event (poll) | from=0x266f7dd04e6f263B7f0261780FeA16e4C2401763 | amount=1000000000000000000000 wei | tx=d30d976da7303a03da3611744f24e6a14b9a2f7069614f1cb49694c4db37fe12
+2026-03-04 11:59:41,925 [INFO] Processing CCT payment | tx=d30d976da7303a03da3611744f24e6a14b9a2f7069614f1cb49694c4db37fe12 | from=0x266f7dd04e6f263B7f0261780FeA16e4C2401763 | amount=1000.000000 CCT
+2026-03-04 11:59:44,125 [INFO] Auto-listed | user=land1234@gmail.com | listing_id=6 | credits=980.000000 CCT | fee=20.000000 CCT | tx=d30d976da7303a03da3611744f24e6a14b9a2f7069614f1cb49694c4db37fe12
+2026-03-04 11:59:44,130 [INFO] Payment processed -> listing_id=6
+2026-03-04 12:00:09,488 [INFO] CCT blockchain listener task stopped.
+2026-03-04 12:00:27,942 [INFO] Earth Engine initialized
+2026-03-04 12:00:28,754 [INFO] Model loaded
+2026-03-04 12:00:28,899 [INFO] DB migration: ensured processed_transactions table exists
+2026-03-04 12:00:28,959 [INFO] CCT blockchain listener task started.
+2026-03-04 12:00:28,959 [INFO] WS_RPC_URL not set — starting blockchain listener in HTTP polling mode.
+2026-03-04 12:00:30,261 [INFO] HTTP poll listener active | contract=0xac9b428132898610873682700b0ae73182506e3b | to=0x7f3846D0c4524Bf27d32019C9DBda08876427f5D | start_block=34739167
+2026-03-04 12:15:58,258 [INFO] CCT blockchain listener task stopped.
+2026-03-04 12:16:09,306 [INFO] Earth Engine initialized
+2026-03-04 12:16:10,369 [INFO] Model loaded
+2026-03-04 12:16:10,480 [INFO] DB migration: ensured processed_transactions table exists
+2026-03-04 12:16:10,558 [INFO] CCT blockchain listener task started.
+2026-03-04 12:16:10,558 [INFO] WS_RPC_URL not set — starting blockchain listener in HTTP polling mode.
+2026-03-04 12:16:11,924 [INFO] HTTP poll listener active | contract=0xac9b428132898610873682700b0ae73182506e3b | to=0x7f3846D0c4524Bf27d32019C9DBda08876427f5D | start_block=34739638
+2026-03-04 12:16:13,275 [INFO] CCT blockchain listener task stopped.
+2026-03-04 12:16:21,752 [INFO] Earth Engine initialized
+2026-03-04 12:16:22,394 [INFO] Model loaded
+2026-03-04 12:16:22,504 [INFO] DB migration: ensured processed_transactions table exists
+2026-03-04 12:16:22,554 [INFO] CCT blockchain listener task started.
+2026-03-04 12:16:22,554 [INFO] WS_RPC_URL not set — starting blockchain listener in HTTP polling mode.
+2026-03-04 12:16:23,762 [INFO] HTTP poll listener active | contract=0xac9b428132898610873682700b0ae73182506e3b | to=0x7f3846D0c4524Bf27d32019C9DBda08876427f5D | start_block=34739644
+2026-03-04 12:16:25,086 [INFO] CCT blockchain listener task stopped.
+2026-03-04 12:16:34,591 [INFO] Earth Engine initialized
+2026-03-04 12:16:35,240 [INFO] Model loaded
+2026-03-04 12:16:35,360 [INFO] DB migration: ensured processed_transactions table exists
+2026-03-04 12:16:35,422 [INFO] CCT blockchain listener task started.
+2026-03-04 12:16:35,423 [INFO] WS_RPC_URL not set — starting blockchain listener in HTTP polling mode.
+2026-03-04 12:16:36,883 [INFO] HTTP poll listener active | contract=0xac9b428132898610873682700b0ae73182506e3b | to=0x7f3846D0c4524Bf27d32019C9DBda08876427f5D | start_block=34739650
+2026-03-04 12:48:59,589 [INFO] CCT blockchain listener task stopped.
+2026-03-04 12:49:08,591 [INFO] Earth Engine initialized
+2026-03-04 12:49:09,511 [INFO] Model loaded
+2026-03-04 12:49:09,621 [INFO] DB migration: ensured processed_transactions table exists
+2026-03-04 12:49:09,679 [INFO] CCT blockchain listener task started.
+2026-03-04 12:49:09,680 [INFO] WS_RPC_URL not set — starting blockchain listener in HTTP polling mode.
+2026-03-04 12:49:10,859 [INFO] HTTP poll listener active | contract=0xac9b428132898610873682700b0ae73182506e3b | to=0x7f3846D0c4524Bf27d32019C9DBda08876427f5D | start_block=34740627
+2026-03-04 12:49:18,458 [INFO] CCT blockchain listener task stopped.
+2026-03-04 12:49:27,564 [INFO] Earth Engine initialized
+2026-03-04 12:49:28,370 [INFO] Model loaded
+2026-03-04 12:49:28,474 [INFO] DB migration: added users.payout_account_holder
+2026-03-04 12:49:28,475 [INFO] DB migration: added users.payout_bank_name
+2026-03-04 12:49:28,476 [INFO] DB migration: added users.payout_account_number
+2026-03-04 12:49:28,477 [INFO] DB migration: added users.payout_ifsc_code
+2026-03-04 12:49:28,477 [INFO] DB migration: added users.payout_branch_name
+2026-03-04 12:49:28,478 [INFO] DB migration: added users.payout_updated_at
+2026-03-04 12:49:28,538 [INFO] DB migration: ensured processed_transactions table exists
+2026-03-04 12:49:28,627 [INFO] CCT blockchain listener task started.
+2026-03-04 12:49:28,627 [INFO] WS_RPC_URL not set — starting blockchain listener in HTTP polling mode.
+2026-03-04 12:49:29,922 [INFO] HTTP poll listener active | contract=0xac9b428132898610873682700b0ae73182506e3b | to=0x7f3846D0c4524Bf27d32019C9DBda08876427f5D | start_block=34740637
+2026-03-04 12:49:31,279 [INFO] CCT blockchain listener task stopped.
+2026-03-04 12:49:38,900 [INFO] Earth Engine initialized
+2026-03-04 12:49:39,554 [INFO] Model loaded
+2026-03-04 12:49:39,674 [INFO] DB migration: ensured processed_transactions table exists
+2026-03-04 12:49:39,725 [INFO] CCT blockchain listener task started.
+2026-03-04 12:49:39,726 [INFO] WS_RPC_URL not set — starting blockchain listener in HTTP polling mode.
+2026-03-04 12:49:40,916 [INFO] HTTP poll listener active | contract=0xac9b428132898610873682700b0ae73182506e3b | to=0x7f3846D0c4524Bf27d32019C9DBda08876427f5D | start_block=34740642
+2026-03-04 12:49:42,242 [INFO] CCT blockchain listener task stopped.
+2026-03-04 12:49:50,613 [INFO] Earth Engine initialized
+2026-03-04 12:49:51,272 [INFO] Model loaded
+2026-03-04 12:49:51,486 [INFO] DB migration: ensured processed_transactions table exists
+2026-03-04 12:49:51,538 [INFO] CCT blockchain listener task started.
+2026-03-04 12:49:51,538 [INFO] WS_RPC_URL not set — starting blockchain listener in HTTP polling mode.
+2026-03-04 12:49:53,731 [INFO] HTTP poll listener active | contract=0xac9b428132898610873682700b0ae73182506e3b | to=0x7f3846D0c4524Bf27d32019C9DBda08876427f5D | start_block=34740649
+2026-03-04 12:50:39,863 [INFO] CCT blockchain listener task stopped.
+2026-03-04 12:50:47,548 [INFO] Earth Engine initialized
+2026-03-04 12:50:48,191 [INFO] Model loaded
+2026-03-04 12:50:48,323 [INFO] DB migration: ensured processed_transactions table exists
+2026-03-04 12:50:48,375 [INFO] CCT blockchain listener task started.
+2026-03-04 12:50:48,375 [INFO] WS_RPC_URL not set — starting blockchain listener in HTTP polling mode.
+2026-03-04 12:50:49,591 [INFO] HTTP poll listener active | contract=0xac9b428132898610873682700b0ae73182506e3b | to=0x7f3846D0c4524Bf27d32019C9DBda08876427f5D | start_block=34740677
+2026-03-04 12:51:10,008 [INFO] CCT blockchain listener task stopped.
+2026-03-04 12:51:18,377 [INFO] Earth Engine initialized
+2026-03-04 12:51:19,028 [INFO] Model loaded
+2026-03-04 12:51:19,255 [INFO] DB migration: ensured processed_transactions table exists
+2026-03-04 12:51:19,307 [INFO] CCT blockchain listener task started.
+2026-03-04 12:51:19,307 [INFO] WS_RPC_URL not set — starting blockchain listener in HTTP polling mode.
+2026-03-04 12:51:20,511 [INFO] HTTP poll listener active | contract=0xac9b428132898610873682700b0ae73182506e3b | to=0x7f3846D0c4524Bf27d32019C9DBda08876427f5D | start_block=34740692
+2026-03-04 13:17:12,986 [INFO] Login: company02@gmail.com
+2026-03-04 13:19:19,634 [INFO] Login: land1234@gmail.com
+2026-03-04 13:20:00,556 [INFO] Login: company02@gmail.com
+2026-03-04 13:23:53,924 [INFO] CCT blockchain listener task stopped.
+2026-03-04 13:24:17,215 [INFO] Earth Engine initialized
+2026-03-04 13:24:18,118 [INFO] Model loaded
+2026-03-04 13:24:18,235 [INFO] DB migration: ensured processed_transactions table exists
+2026-03-04 13:24:18,299 [INFO] CCT blockchain listener task started.
+2026-03-04 13:24:18,299 [INFO] WS_RPC_URL not set — starting blockchain listener in HTTP polling mode.
+2026-03-04 13:24:19,510 [INFO] HTTP poll listener active | contract=0xac9b428132898610873682700b0ae73182506e3b | to=0x7f3846D0c4524Bf27d32019C9DBda08876427f5D | start_block=34741682
+2026-03-04 13:52:29,391 [INFO] CCT blockchain listener task stopped.
+2026-03-04 13:52:41,728 [INFO] Earth Engine initialized
+2026-03-04 13:52:42,798 [INFO] Model loaded
+2026-03-04 13:52:42,931 [INFO] DB migration: ensured processed_transactions table exists
+2026-03-04 13:52:43,015 [INFO] CCT blockchain listener task started.
+2026-03-04 13:52:43,015 [INFO] WS_RPC_URL not set — starting blockchain listener in HTTP polling mode.
+2026-03-04 13:52:44,589 [INFO] HTTP poll listener active | contract=0xac9b428132898610873682700b0ae73182506e3b | to=0x7f3846D0c4524Bf27d32019C9DBda08876427f5D | start_block=34742534
+2026-03-04 13:56:44,940 [INFO] New user with document: tatasteel@gmail.com (organization) approved=True, verified=False
+2026-03-04 13:57:00,128 [INFO] Login: tatasteel@gmail.com
+2026-03-04 13:59:53,588 [INFO] Transfer event (poll) | from=0xc6DED9d30B3BC1A70AA988DA74113D0d0F1c2c37 | amount=500000000000000000000 wei | tx=1cb70da00a6dec469ed24195040b22f6a828abc16735b42f6b6a0da25bd86545
+2026-03-04 13:59:53,589 [INFO] Processing CCT payment | tx=1cb70da00a6dec469ed24195040b22f6a828abc16735b42f6b6a0da25bd86545 | from=0xc6DED9d30B3BC1A70AA988DA74113D0d0F1c2c37 | amount=500.000000 CCT
+2026-03-04 13:59:56,294 [INFO] Transaction 1cb70da00a6dec469ed24195040b22f6a828abc16735b42f6b6a0da25bd86545 only has 1 confirmation(s); minimum required: 3. Will retry.
+2026-03-04 14:02:42,773 [INFO] Login: auditor@carboncredit.com
+2026-03-04 14:02:52,247 [INFO] User 24 verified by auditor 6
+2026-03-04 14:03:06,814 [INFO] Login: land1234@gmail.com
+2026-03-04 14:04:03,773 [INFO] Transfer event (poll) | from=0x266f7dd04e6f263B7f0261780FeA16e4C2401763 | amount=566000000000000000000 wei | tx=676cdda66e856ade992f1ef4cb150b44c4c2484d024f2baa6c89ec6926fe5889
+2026-03-04 14:04:03,774 [INFO] Processing CCT payment | tx=676cdda66e856ade992f1ef4cb150b44c4c2484d024f2baa6c89ec6926fe5889 | from=0x266f7dd04e6f263B7f0261780FeA16e4C2401763 | amount=566.000000 CCT
+2026-03-04 14:04:05,163 [INFO] Transaction 676cdda66e856ade992f1ef4cb150b44c4c2484d024f2baa6c89ec6926fe5889 only has 2 confirmation(s); minimum required: 3. Will retry.
+2026-03-04 14:10:02,961 [INFO] CCT blockchain listener task stopped.
+2026-03-04 14:10:16,277 [INFO] Earth Engine initialized
+2026-03-04 14:10:16,980 [INFO] Model loaded
+2026-03-04 14:10:17,195 [INFO] DB migration: ensured processed_transactions table exists
+2026-03-04 14:10:17,249 [INFO] CCT blockchain listener task started.
+2026-03-04 14:10:17,249 [INFO] WS_RPC_URL not set — starting blockchain listener in HTTP polling mode.
+2026-03-04 14:10:18,547 [INFO] HTTP poll listener active | contract=0xac9b428132898610873682700b0ae73182506e3b | to=0x7f3846D0c4524Bf27d32019C9DBda08876427f5D | start_block=34743061
+2026-03-04 14:10:22,268 [INFO] CCT blockchain listener task stopped.
+2026-03-04 14:10:31,039 [INFO] Earth Engine initialized
+2026-03-04 14:10:32,229 [INFO] Model loaded
+2026-03-04 14:10:32,440 [INFO] DB migration: ensured processed_transactions table exists
+2026-03-04 14:10:32,521 [INFO] CCT blockchain listener task started.
+2026-03-04 14:10:32,521 [INFO] WS_RPC_URL not set — starting blockchain listener in HTTP polling mode.
+2026-03-04 14:10:33,873 [INFO] HTTP poll listener active | contract=0xac9b428132898610873682700b0ae73182506e3b | to=0x7f3846D0c4524Bf27d32019C9DBda08876427f5D | start_block=34743069
+2026-03-04 14:10:35,220 [INFO] CCT blockchain listener task stopped.
+2026-03-04 14:10:44,584 [INFO] Earth Engine initialized
+2026-03-04 14:10:45,253 [INFO] Model loaded
+2026-03-04 14:10:45,379 [INFO] DB migration: ensured processed_transactions table exists
+2026-03-04 14:10:45,430 [INFO] CCT blockchain listener task started.
+2026-03-04 14:10:45,430 [INFO] WS_RPC_URL not set — starting blockchain listener in HTTP polling mode.
+2026-03-04 14:10:46,755 [INFO] HTTP poll listener active | contract=0xac9b428132898610873682700b0ae73182506e3b | to=0x7f3846D0c4524Bf27d32019C9DBda08876427f5D | start_block=34743075
+2026-03-04 14:10:48,192 [INFO] CCT blockchain listener task stopped.
+2026-03-04 14:10:56,314 [INFO] Earth Engine initialized
+2026-03-04 14:10:56,979 [INFO] Model loaded
+2026-03-04 14:10:57,113 [INFO] DB migration: ensured processed_transactions table exists
+2026-03-04 14:10:57,167 [INFO] CCT blockchain listener task started.
+2026-03-04 14:10:57,168 [INFO] WS_RPC_URL not set — starting blockchain listener in HTTP polling mode.
+2026-03-04 14:10:58,447 [INFO] HTTP poll listener active | contract=0xac9b428132898610873682700b0ae73182506e3b | to=0x7f3846D0c4524Bf27d32019C9DBda08876427f5D | start_block=34743081
+2026-03-04 14:11:31,043 [INFO] Earth Engine initialized
+2026-03-04 14:11:32,106 [INFO] Model loaded
+2026-03-04 14:11:32,224 [INFO] DB migration: ensured processed_transactions table exists
+2026-03-04 14:11:32,308 [INFO] CCT blockchain listener task started.
+2026-03-04 14:11:32,308 [INFO] WS_RPC_URL not set — starting blockchain listener in HTTP polling mode.
+2026-03-04 14:11:33,745 [INFO] HTTP poll listener active | contract=0xac9b428132898610873682700b0ae73182506e3b | to=0x7f3846D0c4524Bf27d32019C9DBda08876427f5D | start_block=34743099
+2026-03-04 14:17:04,344 [INFO] Transfer event (poll) | from=0x266f7dd04e6f263B7f0261780FeA16e4C2401763 | amount=500000000000000000000 wei | tx=aaf61c59a9d18f172caf439097e43dd4494cdf7089eabe7b236cf3ab37c78b34
+2026-03-04 14:17:04,345 [INFO] Processing CCT payment | tx=aaf61c59a9d18f172caf439097e43dd4494cdf7089eabe7b236cf3ab37c78b34 | from=0x266f7dd04e6f263B7f0261780FeA16e4C2401763 | amount=500.000000 CCT
+2026-03-04 14:17:07,038 [INFO] Transaction aaf61c59a9d18f172caf439097e43dd4494cdf7089eabe7b236cf3ab37c78b34 only has 2 confirmation(s); minimum required: 3. Will retry.
+2026-03-04 14:17:07,039 [INFO] Tx queued for confirmation retry: aaf61c59a9d18f172caf439097e43dd4494cdf7089eabe7b236cf3ab37c78b34 (1 in queue)
+2026-03-04 14:17:07,039 [INFO] Processing CCT payment | tx=aaf61c59a9d18f172caf439097e43dd4494cdf7089eabe7b236cf3ab37c78b34 | from=0x266f7dd04e6f263B7f0261780FeA16e4C2401763 | amount=500.000000 CCT
+2026-03-04 14:17:08,389 [INFO] Auto-listed | user=land1234@gmail.com | listing_id=7 | credits=490.000000 CCT | fee=10.000000 CCT | tx=aaf61c59a9d18f172caf439097e43dd4494cdf7089eabe7b236cf3ab37c78b34
+2026-03-04 14:17:08,391 [INFO] Pending tx now confirmed and processed: aaf61c59a9d18f172caf439097e43dd4494cdf7089eabe7b236cf3ab37c78b34 | Marketplace listing created automatically.
+2026-03-04 14:17:08,392 [INFO] Cleared 1 resolved pending tx(s); 0 still waiting.
+2026-03-04 14:18:05,347 [INFO] Login: tatasteel@gmail.com
+2026-03-04 14:19:03,050 [INFO] Transfer event (poll) | from=0xc6DED9d30B3BC1A70AA988DA74113D0d0F1c2c37 | amount=250000000000000000000 wei | tx=0e618d7411e5ad69e47ede13d735e7826cde07ea5ce79b402a7ff57c0ef722eb
+2026-03-04 14:19:03,050 [INFO] Processing CCT payment | tx=0e618d7411e5ad69e47ede13d735e7826cde07ea5ce79b402a7ff57c0ef722eb | from=0xc6DED9d30B3BC1A70AA988DA74113D0d0F1c2c37 | amount=250.000000 CCT
+2026-03-04 14:19:04,496 [INFO] Org vault deposit | user=tatasteel@gmail.com | amount=250.000000 CCT | new_balance=250.000000 | tx=0e618d7411e5ad69e47ede13d735e7826cde07ea5ce79b402a7ff57c0ef722eb
+2026-03-04 14:19:04,497 [INFO] Payment processed -> user credited | tx=0e618d7411e5ad69e47ede13d735e7826cde07ea5ce79b402a7ff57c0ef722eb | detail=Organisation vault credited automatically.
+2026-03-04 14:19:41,560 [INFO] Retirement RET-0001-202603: 50.00 CCT by user 24
+2026-03-04 14:27:23,503 [WARNING] HTTP Web3 disconnected — reconnecting…
+2026-03-04 14:28:02,595 [INFO] Login: haripraksh7059@gmail.com
+2026-03-04 14:28:25,042 [INFO] Login: hariprakashyd@gmail.com
+2026-03-04 14:30:28,336 [INFO] Login: tatasteel@gmail.com
+2026-03-04 14:38:09,382 [INFO] Login: tatasteel@gmail.com
+2026-03-04 14:41:45,803 [INFO] Retirement RET-0002-202603: 550.00 CCT by user 24
+2026-03-04 14:54:23,249 [INFO] CCT blockchain listener task stopped.
+2026-03-04 14:54:35,714 [INFO] Earth Engine initialized
+2026-03-04 14:54:36,741 [INFO] Model loaded
+2026-03-04 14:54:36,891 [INFO] DB migration: ensured processed_transactions table exists
+2026-03-04 14:54:36,962 [INFO] CCT blockchain listener task started.
+2026-03-04 14:54:36,962 [INFO] WS_RPC_URL not set — starting blockchain listener in HTTP polling mode.
+2026-03-04 14:54:38,257 [INFO] HTTP poll listener active | contract=0xac9b428132898610873682700b0ae73182506e3b | to=0x7f3846D0c4524Bf27d32019C9DBda08876427f5D | start_block=34744391
+2026-03-04 14:54:51,254 [INFO] CCT blockchain listener task stopped.
+2026-03-04 14:55:02,300 [INFO] Earth Engine initialized
+2026-03-04 14:55:03,034 [INFO] Model loaded
+2026-03-04 14:55:03,159 [INFO] DB migration: ensured processed_transactions table exists
+2026-03-04 14:55:03,216 [INFO] CCT blockchain listener task started.
+2026-03-04 14:55:03,216 [INFO] WS_RPC_URL not set — starting blockchain listener in HTTP polling mode.
+2026-03-04 14:55:04,712 [INFO] HTTP poll listener active | contract=0xac9b428132898610873682700b0ae73182506e3b | to=0x7f3846D0c4524Bf27d32019C9DBda08876427f5D | start_block=34744404
+2026-03-04 14:58:09,723 [INFO] Transfer event (poll) | from=0xc6DED9d30B3BC1A70AA988DA74113D0d0F1c2c37 | amount=2000000000000000000000 wei | tx=8a8b14822e24148fe79de7c5f8af7a3be36ac0930506b41459ead32c26173f3e
+2026-03-04 14:58:09,723 [INFO] Processing CCT payment | tx=8a8b14822e24148fe79de7c5f8af7a3be36ac0930506b41459ead32c26173f3e | from=0xc6DED9d30B3BC1A70AA988DA74113D0d0F1c2c37 | amount=2000.000000 CCT
+2026-03-04 14:58:11,374 [INFO] Org vault deposit | user=tatasteel@gmail.com | amount=2000.000000 CCT | new_balance=3850.000000 | tx=8a8b14822e24148fe79de7c5f8af7a3be36ac0930506b41459ead32c26173f3e
+2026-03-04 14:58:11,374 [INFO] Payment processed -> user credited | tx=8a8b14822e24148fe79de7c5f8af7a3be36ac0930506b41459ead32c26173f3e | detail=Organisation vault credited automatically.
+2026-03-04 14:59:04,752 [INFO] Login: hariprakashyd@gmail.com
+2026-03-04 15:23:16,796 [INFO] CCT blockchain listener task stopped.
+2026-03-04 15:23:27,500 [INFO] Earth Engine initialized
+2026-03-04 15:23:28,384 [INFO] Model loaded
+2026-03-04 15:23:28,513 [INFO] DB migration: ensured processed_transactions table exists
+2026-03-04 15:23:28,572 [INFO] CCT blockchain listener task started.
+2026-03-04 15:23:28,572 [INFO] WS_RPC_URL not set — starting blockchain listener in HTTP polling mode.
+2026-03-04 15:23:30,042 [INFO] HTTP poll listener active | contract=0xac9b428132898610873682700b0ae73182506e3b | to=0x7f3846D0c4524Bf27d32019C9DBda08876427f5D | start_block=34745257
+2026-03-04 15:23:31,388 [INFO] CCT blockchain listener task stopped.
+2026-03-04 15:23:40,846 [INFO] Earth Engine initialized
+2026-03-04 15:23:42,205 [INFO] Model loaded
+2026-03-04 15:23:42,340 [INFO] DB migration: ensured processed_transactions table exists
+2026-03-04 15:23:42,447 [INFO] CCT blockchain listener task started.
+2026-03-04 15:23:42,448 [INFO] WS_RPC_URL not set — starting blockchain listener in HTTP polling mode.
+2026-03-04 15:23:44,012 [INFO] HTTP poll listener active | contract=0xac9b428132898610873682700b0ae73182506e3b | to=0x7f3846D0c4524Bf27d32019C9DBda08876427f5D | start_block=34745264
+2026-03-04 15:23:45,489 [INFO] CCT blockchain listener task stopped.
+2026-03-04 15:23:54,098 [INFO] Earth Engine initialized
+2026-03-04 15:23:55,276 [INFO] Model loaded
+2026-03-04 15:23:55,440 [INFO] DB migration: ensured processed_transactions table exists
+2026-03-04 15:23:55,592 [INFO] CCT blockchain listener task started.
+2026-03-04 15:23:55,593 [INFO] WS_RPC_URL not set — starting blockchain listener in HTTP polling mode.
+2026-03-04 15:23:57,124 [INFO] HTTP poll listener active | contract=0xac9b428132898610873682700b0ae73182506e3b | to=0x7f3846D0c4524Bf27d32019C9DBda08876427f5D | start_block=34745270
+2026-03-04 15:23:58,683 [INFO] CCT blockchain listener task stopped.
+2026-03-04 15:24:08,199 [INFO] Earth Engine initialized
+2026-03-04 15:24:09,578 [INFO] Model loaded
+2026-03-04 15:24:09,731 [INFO] DB migration: ensured processed_transactions table exists
+2026-03-04 15:24:09,804 [INFO] CCT blockchain listener task started.
+2026-03-04 15:24:09,805 [INFO] WS_RPC_URL not set — starting blockchain listener in HTTP polling mode.
+2026-03-04 15:24:11,123 [INFO] HTTP poll listener active | contract=0xac9b428132898610873682700b0ae73182506e3b | to=0x7f3846D0c4524Bf27d32019C9DBda08876427f5D | start_block=34745278
+2026-03-04 15:24:25,674 [INFO] CCT blockchain listener task stopped.
+2026-03-04 15:24:37,785 [INFO] Earth Engine initialized
+2026-03-04 15:24:38,703 [INFO] Model loaded
+2026-03-04 15:24:38,834 [INFO] DB migration: ensured processed_transactions table exists
+2026-03-04 15:24:38,895 [INFO] CCT blockchain listener task started.
+2026-03-04 15:24:38,896 [INFO] WS_RPC_URL not set — starting blockchain listener in HTTP polling mode.
+2026-03-04 15:24:40,405 [INFO] HTTP poll listener active | contract=0xac9b428132898610873682700b0ae73182506e3b | to=0x7f3846D0c4524Bf27d32019C9DBda08876427f5D | start_block=34745292
+2026-03-04 15:24:48,546 [INFO] Login: hariprakashyd@gmail.com
+2026-03-04 15:28:44,837 [INFO] CCT blockchain listener task stopped.
+2026-03-04 15:28:54,716 [INFO] Earth Engine initialized
+2026-03-04 15:28:55,992 [INFO] Model loaded
+2026-03-04 15:28:56,234 [INFO] DB migration: ensured processed_transactions table exists
+2026-03-04 15:28:56,266 [INFO] DB migration: added projects.is_blacklisted
+2026-03-04 15:28:56,267 [INFO] DB migration: added projects.is_flagged
+2026-03-04 15:28:56,268 [INFO] DB migration: added projects.flag_reason
+2026-03-04 15:28:56,378 [INFO] CCT blockchain listener task started.
+2026-03-04 15:28:56,379 [INFO] WS_RPC_URL not set — starting blockchain listener in HTTP polling mode.
+2026-03-04 15:28:58,008 [INFO] HTTP poll listener active | contract=0xac9b428132898610873682700b0ae73182506e3b | to=0x7f3846D0c4524Bf27d32019C9DBda08876427f5D | start_block=34745421
+2026-03-04 15:29:23,580 [INFO] CCT blockchain listener task stopped.
+2026-03-04 15:29:33,572 [INFO] Earth Engine initialized
+2026-03-04 15:29:34,753 [INFO] Model loaded
+2026-03-04 15:29:34,887 [INFO] DB migration: ensured processed_transactions table exists
+2026-03-04 15:29:34,996 [INFO] CCT blockchain listener task started.
+2026-03-04 15:29:34,996 [INFO] WS_RPC_URL not set — starting blockchain listener in HTTP polling mode.
+2026-03-04 15:29:36,362 [INFO] HTTP poll listener active | contract=0xac9b428132898610873682700b0ae73182506e3b | to=0x7f3846D0c4524Bf27d32019C9DBda08876427f5D | start_block=34745440
+2026-03-04 15:30:40,081 [INFO] Login: hariprakashyd@gmail.com
+2026-03-04 15:40:54,968 [INFO] CCT blockchain listener task stopped.
+2026-03-04 15:41:05,307 [INFO] Earth Engine initialized
+2026-03-04 15:41:06,205 [INFO] Model loaded
+2026-03-04 15:41:06,344 [INFO] DB migration: ensured processed_transactions table exists
+2026-03-04 15:41:06,412 [INFO] CCT blockchain listener task started.
+2026-03-04 15:41:06,412 [INFO] WS_RPC_URL not set — starting blockchain listener in HTTP polling mode.
+2026-03-04 15:41:07,640 [INFO] HTTP poll listener active | contract=0xac9b428132898610873682700b0ae73182506e3b | to=0x7f3846D0c4524Bf27d32019C9DBda08876427f5D | start_block=34745786
+2026-03-04 15:41:09,035 [INFO] CCT blockchain listener task stopped.
+2026-03-04 15:41:19,609 [INFO] Earth Engine initialized
+2026-03-04 15:41:20,486 [INFO] Model loaded
+2026-03-04 15:41:20,638 [INFO] DB migration: ensured processed_transactions table exists
+2026-03-04 15:41:20,709 [INFO] CCT blockchain listener task started.
+2026-03-04 15:41:20,709 [INFO] WS_RPC_URL not set — starting blockchain listener in HTTP polling mode.
+2026-03-04 15:41:22,050 [INFO] HTTP poll listener active | contract=0xac9b428132898610873682700b0ae73182506e3b | to=0x7f3846D0c4524Bf27d32019C9DBda08876427f5D | start_block=34745793
+2026-03-04 15:50:46,836 [ERROR] HTTP poll cycle error: HTTPSConnectionPool(host='rpc-amoy.polygon.technology', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='rpc-amoy.polygon.technology', port=443): Failed to resolve 'rpc-amoy.polygon.technology' ([Errno 11001] getaddrinfo failed)"))
+2026-03-04 15:51:01,848 [WARNING] HTTP Web3 disconnected — reconnecting…
+2026-03-04 15:51:01,850 [ERROR] HTTP Web3 not connected to https://rpc-amoy.polygon.technology
+2026-03-04 15:51:16,861 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 15:51:31,864 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 15:51:46,873 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 15:52:01,881 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 15:52:16,889 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 15:52:31,894 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 15:52:46,900 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 15:55:55,893 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 15:56:10,919 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 15:56:25,923 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 15:56:35,739 [INFO] CCT blockchain listener task stopped.
+2026-03-04 15:57:04,390 [INFO] Earth Engine initialized
+2026-03-04 15:57:14,718 [INFO] Model loaded
+2026-03-04 15:57:14,891 [INFO] DB migration: ensured processed_transactions table exists
+2026-03-04 15:57:14,997 [INFO] CCT blockchain listener task started.
+2026-03-04 15:57:14,997 [INFO] WS_RPC_URL not set — starting blockchain listener in HTTP polling mode.
+2026-03-04 15:57:16,362 [INFO] HTTP poll listener active | contract=0xac9b428132898610873682700b0ae73182506e3b | to=0x7f3846D0c4524Bf27d32019C9DBda08876427f5D | start_block=34746270
+2026-03-04 16:06:36,264 [INFO] CCT blockchain listener task stopped.
+2026-03-04 16:06:45,977 [INFO] Earth Engine initialized
+2026-03-04 16:06:46,931 [INFO] Model loaded
+2026-03-04 16:06:47,057 [INFO] DB migration: ensured processed_transactions table exists
+2026-03-04 16:06:47,125 [INFO] CCT blockchain listener task started.
+2026-03-04 16:06:47,125 [INFO] WS_RPC_URL not set — starting blockchain listener in HTTP polling mode.
+2026-03-04 16:06:48,490 [INFO] HTTP poll listener active | contract=0xac9b428132898610873682700b0ae73182506e3b | to=0x7f3846D0c4524Bf27d32019C9DBda08876427f5D | start_block=34746556
+2026-03-04 16:07:04,722 [INFO] Login: land123@gmail.com
+2026-03-04 16:08:26,393 [INFO] Login: auditor@carboncredit.com
+2026-03-04 16:11:20,978 [INFO] Login: land1234@gmail.com
+2026-03-04 16:11:54,075 [INFO] Project 20 (Asola Bhatti Wildlife Sanctuary (Delhi)) created as pending.
+2026-03-04 16:14:33,172 [INFO] Login: hariprakashyd@gmail.com
+2026-03-04 16:14:47,633 [INFO] Login: hariprakashyd@gmail.com
+2026-03-04 16:20:02,171 [INFO] Login: auditor@carboncredit.com
+2026-03-04 16:20:17,478 [INFO] Project 20 approved by auditor 6 and minted.
+2026-03-04 16:20:56,126 [INFO] Login: hariprakashyd@gmail.com
+2026-03-04 16:21:02,663 [INFO] Login: land1234@gmail.com
+2026-03-04 16:26:25,106 [INFO] Login: hariprakashyd@gmail.com
+2026-03-04 16:26:25,106 [INFO] Login: hariprakashyd@gmail.com
+2026-03-04 16:38:58,401 [INFO] CCT blockchain listener task stopped.
+2026-03-04 16:39:11,860 [INFO] Earth Engine initialized
+2026-03-04 16:39:13,194 [INFO] Model loaded
+2026-03-04 16:39:13,417 [INFO] DB migration: ensured processed_transactions table exists
+2026-03-04 16:39:13,496 [INFO] CCT blockchain listener task started.
+2026-03-04 16:39:13,497 [INFO] WS_RPC_URL not set — starting blockchain listener in HTTP polling mode.
+2026-03-04 16:39:14,748 [INFO] HTTP poll listener active | contract=0xac9b428132898610873682700b0ae73182506e3b | to=0x7f3846D0c4524Bf27d32019C9DBda08876427f5D | start_block=34747529
+2026-03-04 16:39:22,985 [INFO] CCT blockchain listener task stopped.
+2026-03-04 16:39:31,238 [INFO] Earth Engine initialized
+2026-03-04 16:39:31,887 [INFO] Model loaded
+2026-03-04 16:39:32,122 [INFO] DB migration: ensured processed_transactions table exists
+2026-03-04 16:39:32,195 [INFO] CCT blockchain listener task started.
+2026-03-04 16:39:32,196 [INFO] WS_RPC_URL not set — starting blockchain listener in HTTP polling mode.
+2026-03-04 16:39:33,587 [INFO] HTTP poll listener active | contract=0xac9b428132898610873682700b0ae73182506e3b | to=0x7f3846D0c4524Bf27d32019C9DBda08876427f5D | start_block=34747539
+2026-03-04 16:40:07,120 [INFO] Earth Engine initialized
+2026-03-04 16:40:07,810 [INFO] Model loaded
+2026-03-04 16:40:07,918 [INFO] DB migration: ensured processed_transactions table exists
+2026-03-04 16:40:07,984 [INFO] CCT blockchain listener task started.
+2026-03-04 16:40:07,984 [INFO] WS_RPC_URL not set — starting blockchain listener in HTTP polling mode.
+2026-03-04 16:40:09,280 [INFO] HTTP poll listener active | contract=0xac9b428132898610873682700b0ae73182506e3b | to=0x7f3846D0c4524Bf27d32019C9DBda08876427f5D | start_block=34747557
+2026-03-04 16:40:53,950 [INFO] Login: hariprakashyd@gmail.com
+2026-03-04 16:41:42,677 [INFO] Login: auditor@carboncredit.com
+2026-03-04 16:42:21,898 [INFO] Login: land1234@gmail.com
+2026-03-04 16:43:02,761 [INFO] Login: auditor@carboncredit.com
+2026-03-04 16:48:35,204 [INFO] Monitor project 11: new_credits=0.00
+2026-03-04 16:51:25,531 [WARNING] HTTP Web3 disconnected — reconnecting…
+2026-03-04 16:52:28,897 [ERROR] HTTP Web3 not connected to https://rpc-amoy.polygon.technology
+2026-03-04 16:52:43,900 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 16:52:58,906 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 16:53:13,911 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 16:53:28,924 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 16:53:39,353 [INFO] New user with document: adiyaverma128034@gmail.com (organization) approved=False, verified=False
+2026-03-04 16:53:43,928 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 16:53:58,940 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 16:54:13,951 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 16:54:28,959 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 16:54:43,962 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 16:54:58,967 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 16:55:13,975 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 16:55:28,983 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 16:55:43,993 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 16:55:59,007 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 16:56:14,018 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 16:56:29,021 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 16:56:31,987 [INFO] New user with document: sanjaytradezz586@gmail.com (land_owner) approved=False, verified=False
+2026-03-04 16:56:44,027 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 16:56:59,031 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 16:57:14,044 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 16:57:26,244 [INFO] Login: auditor@carboncredit.com
+2026-03-04 16:57:29,051 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 16:57:44,055 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 16:57:59,071 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 16:58:03,738 [INFO] User 26 verified by auditor 6
+2026-03-04 16:58:07,217 [INFO] User 25 verified by auditor 6
+2026-03-04 16:58:14,077 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 16:58:29,084 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 16:58:43,168 [INFO] Login: sanjaytradezz586@gmail.com
+2026-03-04 16:58:44,088 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 16:58:59,097 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 16:59:14,109 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 16:59:29,111 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 16:59:44,121 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 16:59:59,126 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:00:14,141 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:00:29,154 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:00:44,160 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:01:12,665 [WARNING] Sleeping 1.32 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/carboncredits-487906/value:compute?prettyPrint=false&alt=json, after HTTPSConnectionPool(host='earthengine.googleapis.com', port=443): Read timed out. (read timeout=None)
+2026-03-04 17:01:54,248 [INFO] Project 21 (Chintamoni Kar Bird Sanctuary (Kolkata)) created as pending.
+2026-03-04 17:01:54,266 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:02:09,277 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:02:24,283 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:02:39,291 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:02:47,131 [INFO] Login: auditor@carboncredit.com
+2026-03-04 17:02:54,301 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:03:09,312 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:03:24,328 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:03:39,336 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:03:49,008 [INFO] Login: sanjaytradezz586@gmail.com
+2026-03-04 17:03:54,347 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:04:09,352 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:04:15,905 [INFO] Login: sanjaytradezz586@gmail.com
+2026-03-04 17:04:23,314 [INFO] Login: auditor@carboncredit.com
+2026-03-04 17:04:24,354 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:04:36,908 [INFO] Project 21 approved by auditor 6 and minted.
+2026-03-04 17:04:39,363 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:04:49,135 [INFO] Login: auditor@carboncredit.com
+2026-03-04 17:04:54,372 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:04:56,590 [INFO] Login: sanjaytradezz586@gmail.com
+2026-03-04 17:05:09,379 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:05:24,389 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:05:39,395 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:05:54,399 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:06:09,402 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:06:24,403 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:06:39,408 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:06:54,419 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:07:09,433 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:07:24,444 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:07:39,450 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:07:54,457 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:08:09,467 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:08:24,474 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:08:39,482 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:08:54,492 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:08:54,677 [INFO] Login: auditor@carboncredit.com
+2026-03-04 17:09:09,495 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:09:24,510 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:09:38,992 [INFO] Login: adiyaverma128034@gmail.com
+2026-03-04 17:09:39,521 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:09:54,529 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:10:09,533 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:10:24,544 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:10:39,560 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:10:54,573 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:11:09,577 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:11:24,589 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:11:39,593 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:11:54,607 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:12:09,612 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:12:24,616 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:12:39,632 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:12:54,646 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:13:09,654 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:13:24,667 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:13:39,674 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:13:54,683 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:14:09,698 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:14:24,701 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:14:39,706 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:14:54,709 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:15:09,718 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:15:24,723 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:15:39,737 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:15:54,739 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:16:09,750 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:16:24,762 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:16:30,854 [INFO] Login: sanjaytradezz586@gmail.com
+2026-03-04 17:16:39,778 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:16:54,788 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:17:09,792 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:17:24,804 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:17:39,808 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:17:47,753 [INFO] Project 22 (Mangalavanam Bird Sanctuary (Kochi)) created as pending.
+2026-03-04 17:17:54,810 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:18:09,821 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:18:24,830 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:18:39,843 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:18:54,855 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:19:09,865 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:19:20,473 [INFO] Login: auditor@carboncredit.com
+2026-03-04 17:19:24,867 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:19:39,880 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:19:45,335 [INFO] Project 22 approved by auditor 6 and minted.
+2026-03-04 17:19:54,888 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:20:07,307 [INFO] Login: sanjaytradezz586@gmail.com
+2026-03-04 17:20:09,895 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:20:24,895 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:20:39,906 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:20:54,909 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:21:09,916 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:21:24,923 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:21:39,927 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:21:54,930 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:22:09,933 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:22:24,945 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:22:39,954 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:22:54,965 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:23:09,974 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:23:24,978 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:23:39,984 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:23:54,997 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:24:10,006 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:24:25,008 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:24:40,023 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:24:55,031 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:25:10,043 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:25:25,059 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:25:40,063 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:25:55,072 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:26:10,080 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:26:25,088 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:26:40,098 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:26:55,110 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:27:10,112 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:27:25,123 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:27:40,134 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:27:55,146 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:28:10,151 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:28:25,157 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:28:40,168 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:28:55,183 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:29:10,197 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:29:25,201 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:29:40,213 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:29:55,219 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:30:10,224 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:30:25,240 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:30:40,245 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:30:55,256 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:31:10,270 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:31:25,276 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:31:40,287 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:31:55,289 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:32:10,296 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:32:25,297 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:32:40,305 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:32:55,318 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:33:10,319 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:33:25,329 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:33:40,344 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:33:55,347 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:34:10,356 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:34:25,366 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:34:40,381 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:34:55,393 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:35:10,400 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:35:25,408 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:35:40,421 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:35:55,428 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:36:10,436 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:36:25,450 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:36:40,457 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:36:55,460 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:37:10,474 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:37:25,486 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:37:40,493 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:37:55,500 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:38:10,509 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:38:25,514 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:38:40,522 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:38:55,530 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:43:02,355 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:46:57,011 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:47:12,026 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:47:27,034 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:47:42,044 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:47:57,055 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:48:12,057 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:48:27,067 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:48:42,068 [ERROR] HTTP poll cycle error: 'NoneType' object has no attribute 'is_connected'
+2026-03-04 17:48:48,865 [INFO] CCT blockchain listener task stopped.
+2026-03-04 17:49:03,037 [INFO] Earth Engine initialized
+2026-03-04 17:49:04,093 [INFO] Model loaded
+2026-03-04 17:49:04,236 [INFO] DB migration: ensured processed_transactions table exists
+2026-03-04 17:49:04,316 [INFO] CCT blockchain listener task started.
+2026-03-04 17:49:04,317 [INFO] WS_RPC_URL not set — starting blockchain listener in HTTP polling mode.
+2026-03-04 17:49:06,292 [INFO] HTTP poll listener active | contract=0xac9b428132898610873682700b0ae73182506e3b | to=0x7f3846D0c4524Bf27d32019C9DBda08876427f5D | start_block=34749625
+2026-03-04 17:49:08,853 [INFO] CCT blockchain listener task stopped.
+2026-03-04 17:49:19,627 [INFO] Earth Engine initialized
+2026-03-04 17:49:20,419 [INFO] Model loaded
+2026-03-04 17:49:20,551 [INFO] DB migration: ensured processed_transactions table exists
+2026-03-04 17:49:20,618 [INFO] CCT blockchain listener task started.
+2026-03-04 17:49:20,618 [INFO] WS_RPC_URL not set — starting blockchain listener in HTTP polling mode.
+2026-03-04 17:49:22,296 [INFO] HTTP poll listener active | contract=0xac9b428132898610873682700b0ae73182506e3b | to=0x7f3846D0c4524Bf27d32019C9DBda08876427f5D | start_block=34749633
+2026-03-04 17:49:24,215 [INFO] CCT blockchain listener task stopped.
+2026-03-04 17:49:43,222 [INFO] Earth Engine initialized
+2026-03-04 17:49:44,049 [INFO] Model loaded
+2026-03-04 17:49:44,197 [INFO] DB migration: ensured processed_transactions table exists
+2026-03-04 17:49:44,280 [INFO] CCT blockchain listener task started.
+2026-03-04 17:49:44,280 [INFO] WS_RPC_URL not set — starting blockchain listener in HTTP polling mode.
+2026-03-04 17:49:45,733 [INFO] HTTP poll listener active | contract=0xac9b428132898610873682700b0ae73182506e3b | to=0x7f3846D0c4524Bf27d32019C9DBda08876427f5D | start_block=34749645
+2026-03-04 17:53:07,897 [INFO] Transfer event (poll) | from=0x64f0CE88dEe52adb03f2aDF2db33115C02142547 | amount=100000000000000000000 wei | tx=348d7ae7de3b18b447fed67c7fe042fefc5fd57e8b010a372e743404f49737ea
+2026-03-04 17:53:07,898 [INFO] Processing CCT payment | tx=348d7ae7de3b18b447fed67c7fe042fefc5fd57e8b010a372e743404f49737ea | from=0x64f0CE88dEe52adb03f2aDF2db33115C02142547 | amount=100.000000 CCT
+2026-03-04 17:53:10,481 [INFO] Auto-listed | user=sanjaytradezz586@gmail.com | listing_id=8 | credits=98.000000 CCT | fee=2.000000 CCT | tx=348d7ae7de3b18b447fed67c7fe042fefc5fd57e8b010a372e743404f49737ea
+2026-03-04 17:53:10,484 [INFO] Payment processed -> user credited | tx=348d7ae7de3b18b447fed67c7fe042fefc5fd57e8b010a372e743404f49737ea | detail=Marketplace listing created automatically.
+2026-03-04 17:54:01,432 [INFO] Login: adiyaverma128034@gmail.com
+2026-03-04 17:55:50,628 [INFO] Retirement RET-0003-202603: 35.00 CCT by user 25
+2026-03-04 17:59:47,787 [WARNING] HTTP Web3 disconnected — reconnecting…
+2026-03-04 18:14:27,514 [WARNING] HTTP Web3 disconnected — reconnecting…
+2026-03-04 18:32:21,573 [WARNING] HTTP Web3 disconnected — reconnecting…
+2026-03-04 18:33:26,615 [INFO] Login: auditor@carboncredit.com
+2026-03-04 18:33:44,771 [INFO] Monitor project 22: new_credits=0.00
+2026-03-04 19:05:21,310 [WARNING] HTTP Web3 disconnected — reconnecting…
+2026-03-04 19:05:21,327 [ERROR] HTTP Web3 not connected to https://rpc-amoy.polygon.technology
+2026-03-04 19:05:36,331 [WARNING] HTTP Web3 disconnected — reconnecting…
+2026-03-04 19:05:36,336 [ERROR] HTTP Web3 not connected to https://rpc-amoy.polygon.technology
+2026-03-04 19:05:51,338 [WARNING] HTTP Web3 disconnected — reconnecting…
+2026-03-04 19:05:51,341 [ERROR] HTTP Web3 not connected to https://rpc-amoy.polygon.technology
+2026-03-04 19:06:06,344 [WARNING] HTTP Web3 disconnected — reconnecting…
+2026-03-04 19:06:06,347 [ERROR] HTTP Web3 not connected to https://rpc-amoy.polygon.technology
+2026-03-04 19:06:21,355 [WARNING] HTTP Web3 disconnected — reconnecting…
+2026-03-04 19:06:21,358 [ERROR] HTTP Web3 not connected to https://rpc-amoy.polygon.technology
+2026-03-04 19:06:36,364 [WARNING] HTTP Web3 disconnected — reconnecting…
+2026-03-04 19:06:36,367 [ERROR] HTTP Web3 not connected to https://rpc-amoy.polygon.technology
+2026-03-04 19:06:51,371 [WARNING] HTTP Web3 disconnected — reconnecting…
+2026-03-04 19:06:51,381 [ERROR] HTTP Web3 not connected to https://rpc-amoy.polygon.technology
+2026-03-04 19:07:06,386 [WARNING] HTTP Web3 disconnected — reconnecting…
+2026-03-04 19:07:06,395 [ERROR] HTTP Web3 not connected to https://rpc-amoy.polygon.technology
+2026-03-04 19:07:21,396 [WARNING] HTTP Web3 disconnected — reconnecting…
+2026-03-04 19:07:21,399 [ERROR] HTTP Web3 not connected to https://rpc-amoy.polygon.technology
+2026-03-04 19:07:36,404 [WARNING] HTTP Web3 disconnected — reconnecting…
+2026-03-04 19:07:36,409 [ERROR] HTTP Web3 not connected to https://rpc-amoy.polygon.technology
+2026-03-04 19:47:08,356 [WARNING] HTTP Web3 disconnected — reconnecting…
+2026-03-04 19:47:08,395 [ERROR] HTTP Web3 not connected to https://rpc-amoy.polygon.technology
+2026-03-04 19:47:23,422 [WARNING] HTTP Web3 disconnected — reconnecting…
+2026-03-04 19:47:23,425 [ERROR] HTTP Web3 not connected to https://rpc-amoy.polygon.technology
+2026-03-04 19:47:38,435 [WARNING] HTTP Web3 disconnected — reconnecting…
+2026-03-04 19:47:38,437 [ERROR] HTTP Web3 not connected to https://rpc-amoy.polygon.technology
+2026-03-04 19:47:53,440 [WARNING] HTTP Web3 disconnected — reconnecting…
+2026-03-04 19:47:53,444 [ERROR] HTTP Web3 not connected to https://rpc-amoy.polygon.technology
+2026-03-04 19:48:08,458 [WARNING] HTTP Web3 disconnected — reconnecting…
+2026-03-04 19:48:08,461 [ERROR] HTTP Web3 not connected to https://rpc-amoy.polygon.technology
+2026-03-04 19:48:23,472 [WARNING] HTTP Web3 disconnected — reconnecting…
+2026-03-04 19:48:23,476 [ERROR] HTTP Web3 not connected to https://rpc-amoy.polygon.technology
+2026-03-04 19:48:38,486 [WARNING] HTTP Web3 disconnected — reconnecting…
+2026-03-04 19:48:38,489 [ERROR] HTTP Web3 not connected to https://rpc-amoy.polygon.technology
+2026-03-04 19:48:53,498 [WARNING] HTTP Web3 disconnected — reconnecting…
+2026-03-04 19:48:53,500 [ERROR] HTTP Web3 not connected to https://rpc-amoy.polygon.technology
+2026-03-04 19:49:08,508 [WARNING] HTTP Web3 disconnected — reconnecting…
+2026-03-04 19:49:08,510 [ERROR] HTTP Web3 not connected to https://rpc-amoy.polygon.technology
+2026-03-04 19:49:23,524 [WARNING] HTTP Web3 disconnected — reconnecting…
+2026-03-04 19:49:23,528 [ERROR] HTTP Web3 not connected to https://rpc-amoy.polygon.technology
+2026-03-04 19:49:38,533 [WARNING] HTTP Web3 disconnected — reconnecting…
+2026-03-04 19:49:38,535 [ERROR] HTTP Web3 not connected to https://rpc-amoy.polygon.technology
+2026-03-04 19:49:53,546 [WARNING] HTTP Web3 disconnected — reconnecting…
+2026-03-04 19:49:53,552 [ERROR] HTTP Web3 not connected to https://rpc-amoy.polygon.technology
+2026-03-04 19:50:08,554 [WARNING] HTTP Web3 disconnected — reconnecting…
+2026-03-04 19:50:08,556 [ERROR] HTTP Web3 not connected to https://rpc-amoy.polygon.technology
+2026-03-04 19:50:23,568 [WARNING] HTTP Web3 disconnected — reconnecting…
+2026-03-04 19:50:23,575 [ERROR] HTTP Web3 not connected to https://rpc-amoy.polygon.technology
+2026-03-04 19:50:38,588 [WARNING] HTTP Web3 disconnected — reconnecting…
+2026-03-04 19:50:38,590 [ERROR] HTTP Web3 not connected to https://rpc-amoy.polygon.technology
+2026-03-04 19:50:53,595 [WARNING] HTTP Web3 disconnected — reconnecting…
+2026-03-04 19:50:53,597 [ERROR] HTTP Web3 not connected to https://rpc-amoy.polygon.technology
+2026-03-04 19:51:08,613 [WARNING] HTTP Web3 disconnected — reconnecting…
+2026-03-04 19:51:08,616 [ERROR] HTTP Web3 not connected to https://rpc-amoy.polygon.technology
+2026-03-04 19:51:23,626 [WARNING] HTTP Web3 disconnected — reconnecting…
+2026-03-04 19:51:23,628 [ERROR] HTTP Web3 not connected to https://rpc-amoy.polygon.technology
+2026-03-04 19:51:38,642 [WARNING] HTTP Web3 disconnected — reconnecting…
+2026-03-04 19:51:38,644 [ERROR] HTTP Web3 not connected to https://rpc-amoy.polygon.technology
+2026-03-04 19:51:53,654 [WARNING] HTTP Web3 disconnected — reconnecting…
+2026-03-04 19:51:53,664 [ERROR] HTTP Web3 not connected to https://rpc-amoy.polygon.technology
+2026-03-04 19:52:08,673 [WARNING] HTTP Web3 disconnected — reconnecting…
+2026-03-04 19:52:08,682 [ERROR] HTTP Web3 not connected to https://rpc-amoy.polygon.technology
+2026-03-04 19:52:23,698 [WARNING] HTTP Web3 disconnected — reconnecting…
+2026-03-04 19:52:23,711 [ERROR] HTTP Web3 not connected to https://rpc-amoy.polygon.technology
+2026-03-04 19:52:38,715 [WARNING] HTTP Web3 disconnected — reconnecting…
+2026-03-04 19:52:38,725 [ERROR] HTTP Web3 not connected to https://rpc-amoy.polygon.technology
+2026-03-04 19:52:53,737 [WARNING] HTTP Web3 disconnected — reconnecting…
+2026-03-04 19:52:53,739 [ERROR] HTTP Web3 not connected to https://rpc-amoy.polygon.technology
+2026-03-04 19:53:08,753 [WARNING] HTTP Web3 disconnected — reconnecting…
+2026-03-04 19:53:08,756 [ERROR] HTTP Web3 not connected to https://rpc-amoy.polygon.technology
+2026-03-04 19:53:23,757 [WARNING] HTTP Web3 disconnected — reconnecting…
+2026-03-04 19:53:23,764 [ERROR] HTTP Web3 not connected to https://rpc-amoy.polygon.technology
+2026-03-04 19:53:38,771 [WARNING] HTTP Web3 disconnected — reconnecting…
+2026-03-04 19:53:38,778 [ERROR] HTTP Web3 not connected to https://rpc-amoy.polygon.technology
+2026-03-04 19:53:53,781 [WARNING] HTTP Web3 disconnected — reconnecting…
+2026-03-04 19:53:53,784 [ERROR] HTTP Web3 not connected to https://rpc-amoy.polygon.technology
+2026-03-04 19:54:08,789 [WARNING] HTTP Web3 disconnected — reconnecting…
+2026-03-04 19:54:08,791 [ERROR] HTTP Web3 not connected to https://rpc-amoy.polygon.technology
+2026-03-04 19:54:23,807 [WARNING] HTTP Web3 disconnected — reconnecting…
+2026-03-04 19:54:23,817 [ERROR] HTTP Web3 not connected to https://rpc-amoy.polygon.technology
+2026-03-04 19:54:38,825 [WARNING] HTTP Web3 disconnected — reconnecting…
+2026-03-04 19:54:38,832 [ERROR] HTTP Web3 not connected to https://rpc-amoy.polygon.technology
+2026-03-04 19:54:53,834 [WARNING] HTTP Web3 disconnected — reconnecting…
+2026-03-04 19:54:53,836 [ERROR] HTTP Web3 not connected to https://rpc-amoy.polygon.technology
+2026-03-04 19:55:08,839 [WARNING] HTTP Web3 disconnected — reconnecting…
+2026-03-04 19:55:08,845 [ERROR] HTTP Web3 not connected to https://rpc-amoy.polygon.technology
+2026-03-04 19:55:23,850 [WARNING] HTTP Web3 disconnected — reconnecting…
+2026-03-04 19:55:23,859 [ERROR] HTTP Web3 not connected to https://rpc-amoy.polygon.technology
+2026-03-04 19:55:38,861 [WARNING] HTTP Web3 disconnected — reconnecting…
+2026-03-04 19:55:38,867 [ERROR] HTTP Web3 not connected to https://rpc-amoy.polygon.technology
+2026-03-04 19:55:53,881 [WARNING] HTTP Web3 disconnected — reconnecting…
+2026-03-04 19:55:53,891 [ERROR] HTTP Web3 not connected to https://rpc-amoy.polygon.technology
+2026-03-04 19:56:08,901 [WARNING] HTTP Web3 disconnected — reconnecting…
+2026-03-04 19:56:08,905 [ERROR] HTTP Web3 not connected to https://rpc-amoy.polygon.technology
+2026-03-04 19:56:23,910 [WARNING] HTTP Web3 disconnected — reconnecting…
+2026-03-04 19:56:23,915 [ERROR] HTTP Web3 not connected to https://rpc-amoy.polygon.technology
+2026-03-04 19:56:38,924 [WARNING] HTTP Web3 disconnected — reconnecting…
+2026-03-04 19:56:38,927 [ERROR] HTTP Web3 not connected to https://rpc-amoy.polygon.technology
+2026-03-04 19:56:53,944 [WARNING] HTTP Web3 disconnected — reconnecting…
+2026-03-04 19:56:53,947 [ERROR] HTTP Web3 not connected to https://rpc-amoy.polygon.technology
+2026-03-04 19:57:08,953 [WARNING] HTTP Web3 disconnected — reconnecting…
+2026-03-04 19:57:08,955 [ERROR] HTTP Web3 not connected to https://rpc-amoy.polygon.technology
+2026-03-04 20:32:55,257 [WARNING] HTTP Web3 disconnected — reconnecting…
+2026-03-04 20:32:55,287 [ERROR] HTTP Web3 not connected to https://rpc-amoy.polygon.technology
+2026-03-04 20:33:10,294 [WARNING] HTTP Web3 disconnected — reconnecting…
+2026-03-04 20:33:10,300 [ERROR] HTTP Web3 not connected to https://rpc-amoy.polygon.technology
+2026-03-04 20:33:25,310 [WARNING] HTTP Web3 disconnected — reconnecting…
+2026-03-04 20:49:44,806 [INFO] CCT blockchain listener task stopped.
+2026-03-04 20:50:01,681 [INFO] Earth Engine initialized
+2026-03-04 20:50:02,851 [INFO] Model loaded
+2026-03-04 20:50:03,007 [INFO] DB migration: ensured processed_transactions table exists
+2026-03-04 20:50:03,083 [INFO] CCT blockchain listener task started.
+2026-03-04 20:50:03,083 [INFO] WS_RPC_URL not set — starting blockchain listener in HTTP polling mode.
+2026-03-04 20:50:04,416 [INFO] HTTP poll listener active | contract=0xac9b428132898610873682700b0ae73182506e3b | to=0x7f3846D0c4524Bf27d32019C9DBda08876427f5D | start_block=34755054
+2026-03-04 20:51:02,663 [INFO] Login: auditor@carboncredit.com
+2026-03-04 20:51:32,257 [INFO] Login: adiyaverma128034@gmail.com
+2026-03-04 21:21:28,192 [WARNING] HTTP Web3 disconnected — reconnecting…
+2026-03-04 21:21:51,888 [INFO] Login: sanjaytradezz586@gmail.com
+2026-03-04 21:25:04,094 [INFO] Login: sanjaytradezz586@gmail.com
+2026-03-04 21:26:38,606 [INFO] Login: adiyaverma128034@gmail.com
+2026-03-04 21:29:01,383 [INFO] Login: auditor@carboncredit.com
+2026-03-04 21:30:15,245 [INFO] Login: hariprakashyd@gmail.com
+2026-03-04 21:33:22,847 [INFO] Login: adiyaverma128034@gmail.com
+2026-03-04 21:38:35,324 [INFO] Login: sanjaytradezz586@gmail.com
+2026-03-04 21:43:48,071 [INFO] Login: sanjaytradezz586@gmail.com
+2026-03-04 21:45:31,147 [INFO] Login: sanjaytradezz586@gmail.com
+2026-03-04 21:46:25,427 [INFO] CCT blockchain listener task stopped.
+2026-03-04 21:46:38,471 [INFO] Earth Engine initialized
+2026-03-04 21:46:39,537 [INFO] Model loaded
+2026-03-04 21:46:39,678 [INFO] DB migration: ensured processed_transactions table exists
+2026-03-04 21:46:39,768 [INFO] CCT blockchain listener task started.
+2026-03-04 21:46:39,769 [INFO] WS_RPC_URL not set — starting blockchain listener in HTTP polling mode.
+2026-03-04 21:46:41,000 [INFO] HTTP poll listener active | contract=0xac9b428132898610873682700b0ae73182506e3b | to=0x7f3846D0c4524Bf27d32019C9DBda08876427f5D | start_block=34756753
+2026-03-04 21:46:51,539 [INFO] Login: sanjaytradezz586@gmail.com
+2026-03-04 22:01:42,091 [INFO] Project 23 (backside of our College) created as pending.
+2026-03-04 22:02:05,032 [INFO] Login: auditor@carboncredit.com
+2026-03-04 22:02:05,957 [INFO] Login: auditor@carboncredit.com
+2026-03-04 23:29:18,037 [INFO] Project 23 approved by auditor 6 and minted.
+2026-03-04 23:38:45,699 [INFO] Login: sanjaytradezz586@gmail.com
+2026-03-04 23:42:13,687 [INFO] Project 24 (near bpmce) created as pending.
+2026-03-04 23:42:34,982 [INFO] Login: auditor@carboncredit.com
+2026-03-04 23:42:50,601 [INFO] Project 24 approved by auditor 6 and minted.
+2026-03-04 23:43:06,326 [INFO] Login: sanjaytradezz586@gmail.com
+2026-03-04 23:44:35,751 [INFO] Login: hariprakashyd@gmail.com
+2026-03-04 23:46:26,199 [INFO] Login: tatasteel@gmail.com
+2026-03-04 23:48:08,159 [INFO] Retirement RET-0004-202603: 350.00 CCT by user 24
