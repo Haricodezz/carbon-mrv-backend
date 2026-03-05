@@ -41,14 +41,16 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # ── Earth Engine ──────────────────────────────────────────
-if os.getenv("ENABLE_EARTH_ENGINE", "false").lower() == "true":
-    try:
-        ee.Initialize(project='carboncredits-487906')
-        logger.info("Earth Engine initialized")
-    except Exception as e:
-        logger.error(f"Earth Engine failed: {e}")
-else:
-    logger.info("Earth Engine skipped (not enabled)")
+try:
+    import socket
+    socket.setdefaulttimeout(5)
+    ee.Initialize(project='carboncredits-487906')
+    logger.info("Earth Engine initialized")
+except Exception as e:
+    logger.error(f"Earth Engine skipped: {e}")
+finally:
+    import socket
+    socket.setdefaulttimeout(None)
 
 # ── ML Model ──────────────────────────────────────────────
 try:
@@ -3501,4 +3503,5 @@ def mrv_stats(request: Request, current_user: dict = Security(get_current_user))
         "project_breakdown":   breakdown,
 
     }
+
 
