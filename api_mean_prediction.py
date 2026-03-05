@@ -270,6 +270,9 @@ def ensure_schema_columns():
         logger.warning(f"Schema migration skipped/failed: {e}")
 
 
+# Create all tables first (safe — skips existing tables)
+models.Base.metadata.create_all(bind=engine)
+# Then run additive column migrations
 ensure_schema_columns()
 
 # ── Helpers ───────────────────────────────────────────────
@@ -3503,5 +3506,6 @@ def mrv_stats(request: Request, current_user: dict = Security(get_current_user))
         "project_breakdown":   breakdown,
 
     }
+
 
 
