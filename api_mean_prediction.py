@@ -46,7 +46,7 @@ try:
     logger.info("Earth Engine initialized")
 except Exception as e:
     logger.error(f"Earth Engine failed: {e}")
-    raise
+    # raise
 
 # ── ML Model ──────────────────────────────────────────────
 try:
@@ -3497,4 +3497,5 @@ def mrv_stats(request: Request, current_user: dict = Security(get_current_user))
         "total_marketplace":   float(total_marketplace),
         "buffer_pool":         buffer_pool_credits,
         "project_breakdown":   breakdown,
+
     }
