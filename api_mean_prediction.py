@@ -115,6 +115,7 @@ def ensure_schema_columns():
     Keeps existing installations working without manual DDL.
     """
     try:
+        models.Base.metadata.create_all(bind=engine)
         inspector = inspect(engine)
         user_cols = {c["name"] for c in inspector.get_columns("users")}
         project_cols = {c["name"] for c in inspector.get_columns("projects")}
@@ -3506,6 +3507,7 @@ def mrv_stats(request: Request, current_user: dict = Security(get_current_user))
         "project_breakdown":   breakdown,
 
     }
+
 
 
 
