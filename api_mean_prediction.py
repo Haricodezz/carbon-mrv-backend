@@ -44,7 +44,9 @@ logger = logging.getLogger(__name__)
 try:
     import socket
     socket.setdefaulttimeout(5)
-    ee.Initialize(project='carboncredits-487906')
+    service_account = os.getenv("GEE_SERVICE_ACCOUNT")
+    credentials = ee.ServiceAccountCredentials(service_account, "gee-service-account.json")
+    ee.Initialize(credentials)
     logger.info("Earth Engine initialized")
 except Exception as e:
     logger.error(f"Earth Engine skipped: {e}")
@@ -3507,6 +3509,7 @@ def mrv_stats(request: Request, current_user: dict = Security(get_current_user))
         "project_breakdown":   breakdown,
 
     }
+
 
 
 
